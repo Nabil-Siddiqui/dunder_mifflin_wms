@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   Global Styles
+   ============================================================
+   Small resets and base styles layered on top of Tailwind's
+   defaults. Keep this file minimal — component-level styling
+   should live in each component via Tailwind utility classes,
+   not here.
+   ============================================================ */
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  @apply bg-dm-gray text-dm-navy;
+}
+
+/* Consistent focus outline for accessibility, styled to match theme */
+:focus-visible {
+  outline: 2px solid theme('colors.dm.gold');
+  outline-offset: 2px;
+}
