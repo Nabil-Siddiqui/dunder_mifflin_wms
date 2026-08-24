@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="qeGi5p7x5o-Y9PCECzNB">
+    <mxGraphModel dx="774" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SwCSqNetEvYpB03AnMij-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="200" x="50" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-2" parent="SwCSqNetEvYpB03AnMij-7" style="rounded=1;absoluteArcSize=1;arcSize=10;gradientColor=none;fillColor=light-dark(#FFFFFF,#9249FF);" value="" vertex="1">
+          <mxGeometry height="230" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-3" parent="SwCSqNetEvYpB03AnMij-7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="&lt;span style=&quot;&quot;&gt;Responsibility&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Collaborator&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-4" parent="SwCSqNetEvYpB03AnMij-7" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;User&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-5" parent="SwCSqNetEvYpB03AnMij-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. Store account credentials and roles.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2.&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Authenticate via hashed password&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3. Determine role-based permissions&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-6" parent="SwCSqNetEvYpB03AnMij-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. Client&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. SalesOrder&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3. PurchaseOrder&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-8" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="200" x="270" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-9" parent="SwCSqNetEvYpB03AnMij-8" style="rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="" vertex="1">
+          <mxGeometry height="230" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-10" parent="SwCSqNetEvYpB03AnMij-8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="&lt;span style=&quot;&quot;&gt;Responsibility&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Collaborator&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-11" parent="SwCSqNetEvYpB03AnMij-8" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Client&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-12" parent="SwCSqNetEvYpB03AnMij-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;1. Represent a customer company&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Hold assigned Sales Representative reference&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. Provide billing/contact information&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-13" parent="SwCSqNetEvYpB03AnMij-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. User&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. SalesOrder&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-14" connectable="0" parent="1" style="group;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="" vertex="1">
+          <mxGeometry height="230" width="200" x="490" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-15" parent="SwCSqNetEvYpB03AnMij-14" style="rounded=1;absoluteArcSize=1;arcSize=10;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="" vertex="1">
+          <mxGeometry height="230" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-16" parent="SwCSqNetEvYpB03AnMij-14" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="&lt;span style=&quot;&quot;&gt;Responsibility&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Collaborator&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-17" parent="SwCSqNetEvYpB03AnMij-14" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Product&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-18" parent="SwCSqNetEvYpB03AnMij-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;1. Track SKU, category, and unit price&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Track current stock level&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. Track reorder threshold&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4. Flag itself as low stock&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-19" parent="SwCSqNetEvYpB03AnMij-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. Vendor&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. SalesOrder&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3. PurchaseOrder&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="200" x="710" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-21" parent="SwCSqNetEvYpB03AnMij-20" style="rounded=1;absoluteArcSize=1;arcSize=10;gradientColor=none;fillColor=light-dark(#FFFFFF,#FF4805);" value="" vertex="1">
+          <mxGeometry height="230" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-22" parent="SwCSqNetEvYpB03AnMij-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="&lt;span style=&quot;&quot;&gt;Responsibility&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Collaborator&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-23" parent="SwCSqNetEvYpB03AnMij-20" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Vendor&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-24" parent="SwCSqNetEvYpB03AnMij-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;1. Represent a fixed paper supplier&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Supply exactly one paper category&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-25" parent="SwCSqNetEvYpB03AnMij-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. Product&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. PurchaseOrder&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-26" connectable="0" parent="1" style="group;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="" vertex="1">
+          <mxGeometry height="230" width="200" x="50" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-27" parent="SwCSqNetEvYpB03AnMij-26" style="rounded=1;absoluteArcSize=1;arcSize=10;fillColor=light-dark(#F8CECC,#515151);fontFamily=Times New Roman;align=center;strokeColor=#b85450;gradientColor=#ea6b66;" value="" vertex="1">
+          <mxGeometry height="230" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-28" parent="SwCSqNetEvYpB03AnMij-26" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="&lt;span style=&quot;&quot;&gt;Responsibility&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Collaborator&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-29" parent="SwCSqNetEvYpB03AnMij-26" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;SalesOrder&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-30" parent="SwCSqNetEvYpB03AnMij-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;1. Represent a client&#39;s order request&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Track status through its lifecycle&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. Link client, sales rep, and product&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-31" parent="SwCSqNetEvYpB03AnMij-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. Client&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. User&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;3. Product&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;4. PurchaseOrder&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-32" connectable="0" parent="1" style="group;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="" vertex="1">
+          <mxGeometry height="230" width="200" x="270" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-33" parent="SwCSqNetEvYpB03AnMij-32" style="rounded=1;absoluteArcSize=1;arcSize=10;gradientColor=none;fillColor=light-dark(#FFFFFF,#F0FFC4);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="" vertex="1">
+          <mxGeometry height="230" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-34" parent="SwCSqNetEvYpB03AnMij-32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="&lt;span style=&quot;&quot;&gt;Responsibility&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Collaborator&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-35" parent="SwCSqNetEvYpB03AnMij-32" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PurchaseOrder&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-36" parent="SwCSqNetEvYpB03AnMij-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;1. Represent a restock order to a vendor&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Track status (Ordered/Received)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. Optionally link to a triggering Sales Order&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-37" parent="SwCSqNetEvYpB03AnMij-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. Product&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. Vendor&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3. SalesOrder&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;4. User&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-38" connectable="0" parent="1" style="group;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="" vertex="1">
+          <mxGeometry height="230" width="200" x="490" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-39" parent="SwCSqNetEvYpB03AnMij-38" style="rounded=1;absoluteArcSize=1;arcSize=10;gradientColor=none;fillColor=light-dark(#FFFFFF,#FF4848);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="" vertex="1">
+          <mxGeometry height="230" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-40" parent="SwCSqNetEvYpB03AnMij-38" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);align=center;" value="&lt;span style=&quot;&quot;&gt;Responsibility&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Collaborator&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-41" parent="SwCSqNetEvYpB03AnMij-38" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;OrderWorkflowService&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-42" parent="SwCSqNetEvYpB03AnMij-38" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1. Approve or reject a Sales Order&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2. Deduct or reserve stock&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3. Auto-generate a Purchase Order on shortfall&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;4. Reconcile stock when a Purchase Order is received&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SwCSqNetEvYpB03AnMij-43" parent="SwCSqNetEvYpB03AnMij-38" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. SalesOrder&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2. PurchaseOrder&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;3. Product&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="100" x="100" y="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
